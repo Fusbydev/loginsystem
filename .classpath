@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/kirkf/OneDrive/Documents/jar/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kirkf/OneDrive/Documents/jar/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/kirkf/Downloads/webcam-capture-0.3.12-dist/libs/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Users/kirkf/Downloads/webcam-capture-0.3.12-dist/libs/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Users/kirkf/Downloads/webcam-capture-0.3.13-20200330.202351-7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kirkf/OneDrive/Documents/jar/Webcam.jar"/>
+	<classpathentry kind="lib" path="D:/Users/kirkf/Downloads/mysql-connector-j-8.0.33/mysql-connector-j-8.0.33.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
